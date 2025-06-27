@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+</p>
+
 ---
 
 ### 💼 About Me
@@ -26,19 +34,15 @@
 ---
 
 ### 🧰 Tools & Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-</p>
 
-- 💡 Data Cleaning, Visualization, Dashboarding  
-- 📊 Power BI, Tableau (KPIs, Reports, Filters, Drill-downs)  
-- 🐍 Python (Pandas, Seaborn, NumPy, Matplotlib)  
-- 🧮 SQL (Joins, Subqueries, Aggregations)  
-- 📑 Excel (Pivot Tables, VLOOKUP, Charts, Dashboards)
+
+| Tool      | Purpose                  |
+|-----------|---------------------------|
+| **Power BI** | Dashboards, DAX, KPIs        |
+| **Tableau**  | Visualizations, Filters, Charts |
+| **SQL**      | Joins, Queries, Data Pull     |
+| **Python**   | Pandas, NumPy, Seaborn        |
+| **Excel**    | Pivot Tables, VLOOKUP, Charts |
 
 ---
 
@@ -46,7 +50,6 @@
 - **Recruitment Analytics Dashboard (Power BI)** – Visualized hiring metrics like time-to-fill, drop-offs  
 - **Sales Performance Tracker (Excel)** – Built dynamic KPIs dashboard with pivot tables  
 - **Customer Segmentation (Python)** – KMeans clustering using transaction datasets  
-- **Survey Data Analysis (Tableau)** – Trend visualization using survey results
 
 ---
 
@@ -60,16 +63,12 @@
 
 ---
 
-### 📫 Connect with Me
-
-- 📧 Email: **kotarajasekhar57@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/raj-shekhar-209a02257](https://linkedin.com/in/raj-shekhar-209a02257)  
-- 🧠 Portfolio: *Coming Soon*
-
----
-
-### 🚀 Quick Fact
-> I transitioned from tech recruiting to data analytics because I believe insights tell the most powerful stories in business.
+### 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/raj-shekhar-209a02257/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:kotarajasekhar57@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" /></a>
+</p>
 
 ---
+
 
